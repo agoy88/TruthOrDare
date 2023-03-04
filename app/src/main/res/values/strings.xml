@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">TEENS</string>
+    <string name="spin">SPIN</string>
+    <string name="lets_spin">Let\'s spin!</string>
+    <string name="and_enjoy">And enjoy</string>
+    <string name="truth">Truth</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="dare">Dare</string>
+    <string name="play">Play</string>
+    <string name="truth_card">Truth Card</string>
+    <string name="dare_card">Dare card</string>
+    <string name="truthordare_game_for_environmental_awarness">TEENS Game for Environmental Awarness</string>
+    <string name="deskripsi_tod">TEENS adalah permainan sederhana dimana pemain harus memilih antara menjawab pertanyaan atau melakukan tantangan yang berhubungan dengan Environmental Awarness.</string>
+    <string name="get_started">Get Started</string>
+
+    <string-array name="Truth_txt">
+        <item> Apakah anda pernah menyimpan sampah terlebih dahulu sampai menemukan tempat sampah
+            untuk membuang sampah tersebut?</item>
+        <item>Apakah anda pernah melakukan 3 langkah (Reduce, Reuse, Recycle) pengelolaan sampah? </item>
+        <item>Kapan terakhir kamu buang sampah sembarangan</item>
+        <item>Apakah anda pernah terlibat dalam pengelolaan sampah di lingkungan setempat? </item>
+        <item>Momen paling memalukan apa yang pernah kamu alami dengan sampah</item>
+        <item>Kalau kamu bisa memilih sampah organik, mau buang sampah kotoran hewan atau buang makanan basi ?</item>
+        <item>Apa saja barang yang tidak ramah lingkungan pernah kamu beli ?</item>
+        <item>Kenangan apa yang pernah membekas dalam ingatan mu tentang sampah? </item>
+        <item>Berapa lama kamu pernah menyimpan sampah di saku</item>
+        <item>Kalau disuruh memilih, kamu mau jadi sampah organik atau anorganik? alasannya</item>
+        <item>Pengakuan dosa, kamu pernah membuang sampah di selokan atau sungai ?</item>
+        <item>Kapan terakhir kali kamu minum memakai sedotan</item>
+        <item>Tiga hal yang kita tidak ketahui tentang dosa kamu pada lingkungan</item>
+        <item>First impression kamu tentang inovasi ramah lingkungan</item>
+        <item>Apa yang kita nggak tau pernah terjadi di antara kamu dan sampah </item>
+        <item>Apa saja barang ramah lingkungan yang pernah kamu beli ? dan efek atau manfaatnya untuk lingkungan ?</item>
+        <item>Ada berapakah tumbler yang selama ini pernah kamu gunakan? </item>
+        <item>Apa yang kamu pikirkan tentang orang yang membuang sampah sembarangan</item>
+        <item>Apakah anda mengetahui hari lingkungan hidup sedunia </item>
+    </string-array>
+
+    <string-array name="Dare_txt">
+        <item>Memilah sampah disekitar saya</item>
+        <item>Posting snapgram saat saya membuang sampah pada tempatnya</item>
+        <item>Posting snapgram mengenai pengakuan perilaku saya yang mencerminkan ketidakpedulian dengan lingkungan bersamaan dengan komitmen saya untuk tidak mengulanginya lagi</item>
+        <item>Cari sampah plastik di sekitarmu dan buang sampah plastik kepada tempatnya</item>
+        <item>Buang puntung rokok orang tidak dikenal ke dalam tempatnya </item>
+        <item>Cari orang yang membuang sampah sembarangan dan berikan edukasi membuang dengan benar</item>
+        <item> Sebutkan perilaku-perilaku yang pernah anda lakukan dalam rangka menjaga lingkungan sekitar anda</item>
+        <item>Buatlah lagu singkat mengenai environmental awareness</item>
+        <item>Posting video edukasi mengenai 3R di sosial media yang kamu miliki</item>
+        <item>Buatlah puisi tentang Environmental Awareness</item>
+        <item>Coba tirukan salah satu tren mengenai Environmental awareness yang ada di social media</item>
+        <item>Buatlah konten tiktok mengenai environmental awareness</item>
+        <item>Buatlah adegan drama apabila kamu sedang kebanjiran akibat pengelolaan lingkungan yang buruk</item>
+        <item>Berikan reaksimu apabila kamu melihat ada orang yang membuang sampah sembarangan di sungai</item>
+    </string-array>
+</resources>
