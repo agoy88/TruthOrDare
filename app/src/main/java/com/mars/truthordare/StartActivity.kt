@@ -19,18 +19,18 @@ class StartActivity : AppCompatActivity() {
         setContentView(R.layout.activity_start)
         setStatusBar()
         val playButton: Button = findViewById(R.id.button_mainActivity)
-        val truthButton: Button = findViewById(R.id.truth_button_start)
-        val dareButton: Button = findViewById(R.id.dare_button_start)
+//        val truthButton: Button = findViewById(R.id.truth_button_start)
+//        val dareButton: Button = findViewById(R.id.dare_button_start)
         playButton.setOnClickListener {
             startActivity(Intent(this, MainActivity::class.java))
 
         }
-        truthButton.setOnClickListener {
-            startActivity(Intent(this, RecyclerviewTruth::class.java))
-        }
-        dareButton.setOnClickListener {
-            startActivity(Intent(this, RecyclerviewDare::class.java))
-        }
+//        truthButton.setOnClickListener {
+//            startActivity(Intent(this, RecyclerviewTruth::class.java))
+//        }
+//        dareButton.setOnClickListener {
+//            startActivity(Intent(this, RecyclerviewDare::class.java))
+//        }
     }
 
     @Deprecated("Deprecated in Java")
