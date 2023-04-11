@@ -39,8 +39,8 @@ class RecyclerAdapterTruth : RecyclerView.Adapter<RecyclerAdapterTruth.ViewHolde
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val v =
-            LayoutInflater.from(parent.context).inflate(R.layout.item_row_card_view, parent, false)
+        val v = LayoutInflater.from(parent.context)
+            .inflate(R.layout.item_row_card_view, parent, false)
         return ViewHolder(v)
     }
 
